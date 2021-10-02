@@ -1,5 +1,5 @@
 # Developers CRUD - Frontend
-Frontend para cadastro, listagem, edição e exclusão desenvolvido com NodeJS, utilizando ReactJS.
+Frontend para cadastro, listagem, edição e exclusão desenvolvido utilizando ReactJS.
 
 ## Como rodar
 
